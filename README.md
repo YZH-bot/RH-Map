@@ -8,6 +8,8 @@ All things will be update soon.
 alt="RH-Map short introduction video" width="750" /></a>
 </p>
 
+The video can be reached on [YouTube](https://www.youtube.com/watch?v=J88xo2M3X6A&t=12s).
+
 ### Experiments in real-world
 <p align="center">
   <img src="doc/real-exp.png" alt="animated" width="750" />
