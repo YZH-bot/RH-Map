@@ -38,3 +38,6 @@ All the pcd results can be reached at [results](https://drive.google.com/drive/f
 4. [How to use](#How-to-use)
 5. [Application](#Application)
 6. [License](#License)
+
+## Application
+Integration with PUTN for robot navigation.
